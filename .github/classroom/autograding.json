@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "fahrenheitToKelvinTest",
+      "setup": "",
+      "run": "make specific_test test=\"test1\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "isPrimeTest",
+      "setup": "",
+      "run": "make specific_test test=\"test2\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "sumOfPrimesTest",
+      "setup": "",
+      "run": "make specific_test test=\"test3\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "reverseIntegerTest",
+      "setup": "",
+      "run": "make specific_test test=\"test4\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "printInvertedHalfStarPyramidTest",
+      "setup": "",
+      "run": "make specific_test test=\"test5\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    }
+  ]
+}
